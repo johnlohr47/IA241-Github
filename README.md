@@ -1,3 +1,3 @@
 # IA241-Github
 
-IA 241 into to python class
+IA 241 intro to python class
